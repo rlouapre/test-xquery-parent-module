@@ -1,0 +1,21 @@
+{
+  "name": "test-xquery-parent-module",
+  "version": "0.0.1",
+  "description": "Test XQuery Parent Module managed by NPM",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rlouapre/test-xquery-parent-module.git"
+  },
+  "keywords": [
+    "xquery"
+  ],
+  "author": "Richard Louapre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rlouapre/test-xquery-parent-module/issues"
+  },
+  "homepage": "https://github.com/rlouapre/test-xquery-parent-module",
+  "dependencies": {
+    "test-xquery-module": "https://github.com/rlouapre/test-xquery-module/tarball/v0.0.1"
+  }
+}
